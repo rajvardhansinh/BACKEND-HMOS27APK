@@ -68,6 +68,7 @@
     "has-symbols": "^1.0.3",
     "has-unicode": "^2.0.1",
     "hasown": "^2.0.2",
+    "http": "^0.0.1-security",
     "http-errors": "^2.0.0",
     "https-proxy-agent": "^5.0.1",
     "iconv-lite": "^0.4.24",
@@ -140,8 +141,8 @@
     "signal-exit": "^3.0.7",
     "sparse-bitfield": "^3.0.3",
     "statuses": "^2.0.1",
-    "string-width": "^4.2.3",
     "string_decoder": "^1.3.0",
+    "string-width": "^4.2.3",
     "strip-ansi": "^6.0.1",
     "tar": "^6.2.1",
     "toidentifier": "^1.0.1",
@@ -162,7 +163,6 @@
     "yargs": "^15.4.1",
     "yargs-parser": "^18.1.3"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
